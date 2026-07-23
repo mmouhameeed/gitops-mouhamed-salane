@@ -1,0 +1,6 @@
+apiVersion: v2
+name: chart-mouhamed-salane
+description: Chart Helm de l'application GitOps de Mouhamed Salane
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
